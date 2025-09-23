@@ -4,7 +4,7 @@ Nice meet you
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300§ion=header&text=slice%20type변경&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=wave%20type변경&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 ![tnals545's github stats](https://github-readme-stats.vercel.app/api?username=Kimhyungyun812&show_icons=true&theme=tokyonight)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=cobalt" /> <br/> <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=cobalt" /> <br/> <img src="https://streak-stats.demolab.com/?user=Kimhyungyun812&theme=tokyonight&hide_border=true" /> </p>
 
 <!--
 **Kimhyungyun812/Kimhyungyun812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
