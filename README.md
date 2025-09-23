@@ -1,5 +1,6 @@
 ## Hi there 👋
 Nice meet you
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 <!--
 **Kimhyungyun812/Kimhyungyun812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
