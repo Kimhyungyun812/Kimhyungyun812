@@ -1,6 +1,6 @@
 ## Hi there 👋
 Nice meet you
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20한글&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 ![tnals545's github stats](https://github-readme-stats.vercel.app/api?username=Kimhyungyun812&show_icons=true&theme=tokyonight)
 
