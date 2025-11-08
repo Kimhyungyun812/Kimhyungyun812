@@ -1,6 +1,5 @@
-<!-- 🌊 두 줄 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=28&fontAlignY=35)
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e90ff,100:00bfff&height=220&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=28&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:004e92,100:000428&height=180&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=60&desc=Mobile%20RF%20%7C%20Embedded%20Hardware%20%7C%20System%20Integration&descAlign=50&descAlignY=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:1e90ff,100:00bfff&height=200&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=27&fontAlign=50&fontAlignY=35&animation=fadeIn&stroke=ffffff&strokeWidth=1)
 
 <p align="center">
   <em>📡 Mobile RF · ⚙️ Embedded Hardware · 💻 Fullstack Software Developer</em>
@@ -20,7 +19,7 @@
   - **국내 이동통신 3사 무선 성능 Spec 정리 및 최적화 수행**
 
 - 💉 **의료기기 Hardware 개발**
-  - 회로 설계, PCB Layout, EMI/EMS 대응
+  - 회로 설계, PCB Layout, EMI/EMS 대응  
   - **전자파 시험 및 KC 인증 완료**
 
 - 💡 **소프트웨어 역량 강화**
@@ -50,8 +49,8 @@
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
   <img src="https://img.shields.io/badge/MTK-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pads-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OrCad-0078D7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pads-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OrCad-0078D7?style=for-the-badge"/>
 </p>
 
 #### 🧰 Tools & Platforms  
@@ -140,3 +139,4 @@
 
 > _“Hardware makes it real, Software makes it smart.”_  
 > — **Kim Hyung Yun (김형윤)**
+
