@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -46,7 +46,7 @@
 </p>
 
 #### ⚙️ Embedded / Hardware  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
   <img src="https://img.shields.io/badge/MTK-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
@@ -55,7 +55,7 @@
 </p>
 
 #### 🧰 Tools & Platforms  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -69,8 +69,6 @@
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
-
-<img src="https://img.shields.io/badge/STM32%20Robot%20Controller-Embedded%20System-1E90FF?style=for-the-badge" />
 <br/><br/>
 <img src="https://github.com/Kimhyungyun812.png" width="70%" alt="Robot Controller Preview"/>
 <br/><br/>
