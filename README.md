@@ -96,11 +96,10 @@
 <img src="https://img.shields.io/badge/MovieHub%20🎬-Web%20Application-1E90FF?style=for-the-badge" />
 <br/><br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png" 
-       alt="MovieHub Preview" 
-       width="85%" 
-       style="border-radius:12px;box-shadow:0 0 15px rgba(30,144,255,0.6);" 
-       onerror="this.src='https://via.placeholder.com/1000x550/1e90ff/ffffff?text=MovieHub+Preview';"/>
+  <img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png"
+       alt="MovieHub Preview"
+       width="85%"
+       style="border-radius:12px;box-shadow:0 0 15px rgba(30,144,255,0.6);" />
 </p>
 
 <p align="left">
@@ -150,4 +149,3 @@
 
 > _“Hardware makes it real, Software makes it smart.”_  
 > — **Kim Hyung Yun (김형윤)**
-
