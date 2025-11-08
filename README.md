@@ -79,7 +79,6 @@
 - Mobile phone의 RF 유무선 업무 담당<br/>
 - CE, FCC 등 규격 인증을 위한 문서 작성 및 test Follow up<br/>
 - Global 및 국내 이동통신 3사 사업자 무선 성능 spec. 정리 및 성능확보<br/>
-
 🤖 <b>STM32 기반 로봇 제어 프로젝트</b><br/>
 - STM32F469ZET6 MCU 기반<br/>
 - DC 모터 및 LED PWM 제어 회로 설계<br/>
