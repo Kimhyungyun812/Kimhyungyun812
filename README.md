@@ -88,7 +88,6 @@
 <img src="https://img.shields.io/badge/SPI/I2C-808080?style=flat-square"/>
 <img src="https://img.shields.io/badge/Embedded%20C-006400?style=flat-square"/>
 </p>
-<a href="#"><img src="https://img.shields.io/badge/Project%20Details-1E90FF?style=for-the-badge"/></a>
 
 </td>
 <td width="50%" align="center" valign="top">
