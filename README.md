@@ -75,11 +75,16 @@
 <img src="https://img.shields.io/badge/STM32%20Robot%20Controller-Embedded%20System-1E90FF?style=for-the-badge" />
 <br/><br/>
 <p align="left">
+🤖 <b>Qualcomm, MTK 기반 프로젝트</b><br/>
+- Mobile phone의 RF 유무선 업무 담당
+- CE, FCC 등 규격 인증을 위한 문서 작성 및 test Follow up
+- Global 및 국내 이동통신 3사 사업자 무선 성능 spec. 정리 및 성능확보
+
 🤖 <b>STM32 기반 로봇 제어 프로젝트</b><br/>
 - STM32F469ZET6 MCU 기반<br/>
 - DC 모터 및 LED PWM 제어 회로 설계<br/>
-- RS-485, SPI, I2C 통신 설계 및 펌웨어 제어<br/>
-- <b>하드웨어 설계 + 임베디드 펌웨어 통합 구현</b><br/>
+- 의료 기기 Hardware 개발 (전자파 시험 인증 완료)  
+  
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
