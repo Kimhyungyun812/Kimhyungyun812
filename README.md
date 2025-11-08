@@ -1,5 +1,5 @@
 <!-- 🌊 두 줄 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=28&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로,&fontColor=ffffff&fontSize=28&fontAlignY=35)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e90ff,100:00bfff&height=220&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=28&fontAlignY=30)
 
 <p align="center">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
   <img src="https://img.shields.io/badge/MTK-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PADS-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pads-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/OrCad-0078D7?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -69,6 +69,8 @@
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/STM32%20Robot%20Controller-Embedded%20System-1E90FF?style=for-the-badge" />
 <br/><br/>
 <p align="left">
 🤖 <b>STM32 기반 로봇 제어 프로젝트</b><br/>
@@ -136,3 +138,4 @@
 
 > _“Hardware makes it real, Software makes it smart.”_  
 > — **Kim Hyung Yun (김형윤)**
+
