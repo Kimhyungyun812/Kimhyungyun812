@@ -70,8 +70,6 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <br/><br/>
-<img src="https://github.com/Kimhyungyun812.png" width="70%" alt="Robot Controller Preview"/>
-<br/><br/>
 <p align="left">
 🤖 <b>STM32 기반 로봇 제어 프로젝트</b><br/>
 - STM32F469ZET6 MCU 기반 <br/>
