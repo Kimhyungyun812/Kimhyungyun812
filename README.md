@@ -1,5 +1,5 @@
 <!-- 🌊 두 줄 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로,&fontColor=ffffff&fontSize=28&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=28&fontAlignY=35)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e90ff,100:00bfff&height=220&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=28&fontAlignY=30)
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 - 💡 **소프트웨어 역량 강화**
   - **Next.js / React / Node.js** 기반 **MovieHub 🎬** 웹 서비스 개발  
-  - **Java / C / STM32 기반 임베디드 제어 프로젝트 수행**
+  - **Java / C 프로젝트 수행**
 
 - 🧩 하드웨어와 소프트웨어의 융합을 통한  
   **지능형 로봇 및 IoT 시스템 개발**에 관심이 많습니다  
@@ -66,15 +66,17 @@
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<table align="center" style="border:none;">
 <tr>
 <td width="50%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/STM32%20Robot%20Controller-Embedded%20System-1E90FF?style=for-the-badge" />
 <br/><br/>
+<img src="https://github.com/Kimhyungyun812.png" width="80%" alt="Robot Controller Preview" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+<br/><br/>
 <p align="left">
 🤖 <b>STM32 기반 로봇 제어 프로젝트</b><br/>
-- STM32F469ZET6 MCU 기반 <br/>
+- STM32F469ZET6 MCU 기반<br/>
 - DC 모터 및 LED PWM 제어 회로 설계<br/>
 - RS-485, SPI, I2C 통신 설계 및 펌웨어 제어<br/>
 - <b>하드웨어 설계 + 임베디드 펌웨어 통합 구현</b><br/>
@@ -93,7 +95,7 @@
 
 <img src="https://img.shields.io/badge/MovieHub%20🎬-Web%20Application-1E90FF?style=for-the-badge" />
 <br/><br/>
-<img src="https://github.com/Kimhyungyun812/MovieHub/blob/main/public/thumbnail.png?raw=true" width="70%" alt="MovieHub Preview"/>
+<img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png" width="80%" alt="MovieHub Preview" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
 <br/><br/>
 <p align="left">
 🎥 <b>MovieHub 웹 서비스</b><br/>
@@ -109,7 +111,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Open%20API-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 </p>
-<a href="https://github.com/Kimhyungyun812/MovieHub"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Kimhyungyun812/MovieHub">
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -138,4 +142,3 @@
 
 > _“Hardware makes it real, Software makes it smart.”_  
 > — **Kim Hyung Yun (김형윤)**
-
