@@ -1,5 +1,5 @@
 <!-- 🌊 두 줄 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로,&fontColor=ffffff&fontSize=28&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00bfff,100:1e90ff&height=220&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=28&fontAlignY=35)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e90ff,100:00bfff&height=220&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=28&fontAlignY=30)
 
 <p align="center">
