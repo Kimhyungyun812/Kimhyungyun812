@@ -1,20 +1,32 @@
 ## Hi there 👋  
 Nice to meet you!  
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=환영합니다!&fontSize=40&desc=Hardware개발자에서%20Soteware의%20개발능력도%20함께%20가지고자%20Software%20경험을%20쌓고%20있는%20김형윤%20입니다.&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hardware%20개발자에서%20Software%20개발역량을%20함께%20갖추고자)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=두%20분야의%20경험을%20쌓고%20있는%20김형윤%20입니다.&fontSize=28)
 
 ---
 
 ### 👨‍💻 About Me
 
 안녕하세요!  
-저는 **하드웨어(Hardware)** 분야의 깊은 이해와 경험을 기반으로,  
-현재는 **소프트웨어(Software)** 역량을 함께 확장해 나가고 있는 **김형윤**입니다.  
+저는 **하드웨어(Hardware)** 개발 경력을 기반으로,  
+현재는 **소프트웨어(Software)** 기술을 함께 확장해 나가고 있는 **김형윤**입니다.  
 
-- ⚙️ STM32, PMIC, LED Driver, RS-485, Motor Driver 회로 설계 경험  
-- 💡 **Next.js / React** 기반의 MovieHub 🎬 서비스 개발 중  
-- 📘 **Java / C / Embedded Systems** 학습 및 실무 프로젝트 진행  
-- 🧩 하드웨어와 소프트웨어의 융합을 통한 **지능형 로봇 및 IoT 시스템**에 관심이 많습니다  
+- ⚙️ **모바일 RF 유/무선 업무 담당**
+  - Mobile Phone RF 회로 설계 및 Test Follow-up  
+  - CE, FCC 등 **글로벌 규격 인증 문서 작성 및 인증 대응**
+  - **국내 이동통신 3사 무선 성능 Spec 정리 및 최적화 수행**
+
+- 💉 **의료기기 Hardware 개발**
+  - 회로 설계, PCB Layout, EMI/EMS 대응
+  - **전자파 시험 및 KC 인증 완료**
+
+- 💡 **소프트웨어 역량 강화**
+  - **Next.js / React / Node.js** 기반 **MovieHub 🎬** 웹 서비스 개발  
+  - **Java / C / Embedded System** 실무 및 교육 프로젝트 수행  
+
+- 🧩 하드웨어와 소프트웨어의 융합을 통한  
+  **지능형 로봇 및 IoT 시스템 개발**에 관심이 많습니다  
 
 ---
 
@@ -81,7 +93,7 @@ Nice to meet you!
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:kimhyungyun812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ttl6622@naver.com"><img src="https://img.shields.io/badge/Email-0099FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Kimhyungyun812"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -89,3 +101,4 @@ Nice to meet you!
 
 > _“Hardware makes it real, Software makes it smart.”_  
 > — **Kim Hyung Yun (김형윤)**
+
