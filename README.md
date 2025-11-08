@@ -1,7 +1,7 @@
 <!-- 💎 HEADER 1 : Professional -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0047AB&height=200&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=FFFFFF&fontSize=31&fontAlign=50&fontAlignY=60&desc=Mobile%20RF%20%7C%20Embedded%20Hardware%20%7C%20System%20Integration&descAlign=50&descAlignY=90&fontShadow=true&stroke=00BFFF&strokeWidth=1&animation=fadeIn)
 
-<!-- 🌈 HEADER 2 : Creative (텍스트 가려짐 개선 버전) -->
+<!-- 🌈 HEADER 2 : Creative -->
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:002147,100:0047AB&height=190&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=45&desc=Hardware%20makes%20it%20real,%20Software%20makes%20it%20smart.&descAlign=50&descAlignY=80&fontShadow=true&stroke=66CCFF&strokeWidth=1.5&animation=fadeIn)
 
 <p align="center">
@@ -95,15 +95,22 @@
 
 <img src="https://img.shields.io/badge/MovieHub%20🎬-Web%20Application-1E90FF?style=for-the-badge" />
 <br/><br/>
-<img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png" onerror="this.src='https://via.placeholder.com/800x450/1e90ff/ffffff?text=MovieHub+Preview';" width="80%" alt="MovieHub Preview" style="border-radius:12px;box-shadow:0 0 10px rgba(30,144,255,0.7);"/>
-<br/><br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png" 
+       alt="MovieHub Preview" 
+       width="85%" 
+       style="border-radius:12px;box-shadow:0 0 15px rgba(30,144,255,0.6);" 
+       onerror="this.src='https://via.placeholder.com/1000x550/1e90ff/ffffff?text=MovieHub+Preview';"/>
+</p>
+
 <p align="left">
 🎥 <b>MovieHub 웹 서비스</b><br/>
 - Next.js + React 기반 SPA 구조<br/>
-- 한국영화진흥위원회 Open API 연동<br/>
+- TMDB(Open API) 연동으로 실시간 영화 데이터 제공<br/>
 - 공지사항 · Q&A 게시판 · 관리자 페이지 구현<br/>
 - <b>디자인 토큰 기반 UI / UX 시스템 적용</b><br/>
 </p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -111,6 +118,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Open%20API-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 </p>
+
 <a href="https://github.com/Kimhyungyun812/MovieHub">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
