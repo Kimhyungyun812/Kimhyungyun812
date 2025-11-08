@@ -72,8 +72,6 @@
 
 <img src="https://img.shields.io/badge/STM32%20Robot%20Controller-Embedded%20System-1E90FF?style=for-the-badge" />
 <br/><br/>
-<img src="https://github.com/Kimhyungyun812.png" width="80%" alt="Robot Controller Preview" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
-<br/><br/>
 <p align="left">
 🤖 <b>STM32 기반 로봇 제어 프로젝트</b><br/>
 - STM32F469ZET6 MCU 기반<br/>
