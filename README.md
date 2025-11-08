@@ -1,12 +1,8 @@
-<!-- 🌟 PROFESSIONAL HEADER -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/166991056?v=4" width="130" height="130" style="border-radius:50%; box-shadow:0 0 15px rgba(0,191,255,0.8); margin-bottom:15px;" />
-</p>
+<!-- 💎 HEADER 1 : Professional -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:007BFF&height=210&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=FFFFFF&fontSize=31&fontAlign=50&fontAlignY=60&desc=Mobile%20RF%20%7C%20Embedded%20Hardware%20%7C%20System%20Integration&descAlign=50&descAlignY=90&fontShadow=true&stroke=00BFFF&strokeWidth=1&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0077FF&height=210&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=60&desc=Mobile%20RF%20%7C%20Embedded%20Hardware%20%7C%20System%20Integration&descAlign=50&descAlignY=90&fontShadow=true&fontAlignX=50&animation=fadeIn)
-
-<!-- 🌈 CREATIVE HEADER -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:1E90FF&height=220&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=27&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Hardware%20makes%20it%20real%2C%20Software%20makes%20it%20smart.&descAlign=50&descAlignY=80&stroke=ffffff&strokeWidth=1)
+<!-- 🌈 HEADER 2 : Creative -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:1E90FF&height=220&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=FFFFFF&fontSize=28&fontAlign=50&fontAlignY=40&desc=Hardware%20makes%20it%20real,%20Software%20makes%20it%20smart.&descAlign=50&descAlignY=80&fontShadow=true&stroke=FFFFFF&strokeWidth=1&animation=fadeIn)
 
 <p align="center">
   <em>📡 Mobile RF · ⚙️ Embedded Hardware · 💻 Fullstack Software Developer</em>
