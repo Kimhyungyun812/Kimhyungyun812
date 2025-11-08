@@ -1,16 +1,15 @@
 ## Hi there 👋  
 Nice to meet you!  
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=환영합니다!)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hardware%20경력에%20더불어%20Software%20경험을%20쌓고%20있는%20김형윤%20입니다.)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=환영합니다!&fontSize=40&desc=Hardware%20경력에%20더불어%20Software%20경험을%20쌓고%20있는%20김형윤%20입니다.&descAlignY=70)
 
 ---
 
 ### 👨‍💻 About Me
 
 안녕하세요!  
-저는 **하드웨어(Hardware)** 분야에서 쌓은 풍부한 경험을 바탕으로,  
-현재는 **소프트웨어(Software)** 개발 역량을 함께 확장해 나가고 있는 **김형윤**입니다.  
+저는 **하드웨어(Hardware)** 분야의 깊은 이해와 경험을 기반으로,  
+현재는 **소프트웨어(Software)** 역량을 함께 확장해 나가고 있는 **김형윤**입니다.  
 
 - ⚙️ STM32, PMIC, LED Driver, RS-485, Motor Driver 회로 설계 경험  
 - 💡 **Next.js / React** 기반의 MovieHub 🎬 서비스 개발 중  
@@ -47,6 +46,25 @@ Nice to meet you!
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
+
+---
+
+### 🎬 Featured Project – MovieHub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MovieHub%20🎉-Next.js%20%7C%20React%20%7C%20Node.js-blue?style=for-the-badge" />
+</p>
+
+> **MovieHub**는 한국영화진흥위원회 Open API를 활용한  
+> 🎥 **박스오피스 실시간 조회, 공지사항, Q&A 게시판, 관리자 페이지**를 갖춘 웹서비스입니다.  
+>  
+> 💡 주요 특징:  
+> - Next.js App Router 기반 구조  
+> - 로컬 스토리지 기반 게시판 저장  
+> - 사용자/관리자 전용 페이지 및 모달 디자인 시스템  
+> - 디자인 토큰 기반의 일관된 UI 스타일링  
+
+📎 [👉 MovieHub GitHub Repository](https://github.com/Kimhyungyun812/MovieHub)  
 
 ---
 
