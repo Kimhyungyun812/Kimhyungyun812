@@ -86,11 +86,12 @@
   
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qualcomm-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MTK-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/RS485-808080?style=flat-square"/>
 <img src="https://img.shields.io/badge/SPI/I2C-808080?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embedded%20C-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pads%20C-006400?style=flat-square"/>
+<img src="https://img.shields.io/badge/OrCad%20C-006400?style=flat-square"/>
 </p>
 
 </td>
