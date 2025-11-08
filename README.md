@@ -1,6 +1,7 @@
 ## Hi there 👋
 Nice meet you
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=환영합니다) (Hardware 경력에 Software 경험을 쌇고 있는 김형윤 입니다.)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=환영합니다!)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=Hardware 경력에 Software 경험을 쌇고 있는 김형윤 입니다.)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kimhyungyun812&show_icons=true&theme=cobalt" /> <br/> <img src="https://streak-stats.demolab.com/?user=Kimhyungyun812&theme=tokyonight&hide_border=true" /> </p>
 
