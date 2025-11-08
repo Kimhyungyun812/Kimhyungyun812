@@ -1,5 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:004e92,100:000428&height=180&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=60&desc=Mobile%20RF%20%7C%20Embedded%20Hardware%20%7C%20System%20Integration&descAlign=50&descAlignY=90)
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:1e90ff,100:00bfff&height=200&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=27&fontAlign=50&fontAlignY=35&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+<!-- 💎 HEADER 1 : Professional -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/166991056?v=4" width="120" height="120" style="border-radius:50%; box-shadow:0 0 10px #00bfff; margin-bottom:10px;" />
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:004e92,100:000428&height=180&section=header&text=안녕하세요!%20하드웨어%20개발%20경력을%20기반으로&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=55&desc=Mobile%20RF%20·%20Embedded%20Hardware%20·%20System%20Integration&descAlign=50&descAlignY=85&fontShadow=true&textBg=true)
+
+<!-- 💎 HEADER 2 : Creative -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:1e90ff,100:00bfff&height=210&section=header&text=소프트웨어%20기술을%20함께%20확장해%20나가고%20있는%20김형윤%20입니다.&fontColor=ffffff&fontSize=27&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Hardware%20makes%20it%20real,%20Software%20makes%20it%20smart.&descAlign=50&descAlignY=80&fontShadow=true&textBg=true)
 
 <p align="center">
   <em>📡 Mobile RF · ⚙️ Embedded Hardware · 💻 Fullstack Software Developer</em>
@@ -24,7 +31,7 @@
 
 - 💡 **소프트웨어 역량 강화**
   - **Next.js / React / Node.js** 기반 **MovieHub 🎬** 웹 서비스 개발  
-  - **Java / C 프로젝트 수행**
+  - **Java / C / STM32 제어 프로젝트 수행**
 
 - 🧩 하드웨어와 소프트웨어의 융합을 통한  
   **지능형 로봇 및 IoT 시스템 개발**에 관심이 많습니다  
@@ -34,7 +41,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Frameworks  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -45,7 +52,7 @@
 </p>
 
 #### ⚙️ Embedded / Hardware  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
   <img src="https://img.shields.io/badge/MTK-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
@@ -54,7 +61,7 @@
 </p>
 
 #### 🧰 Tools & Platforms  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -92,7 +99,7 @@
 
 <img src="https://img.shields.io/badge/MovieHub%20🎬-Web%20Application-1E90FF?style=for-the-badge" />
 <br/><br/>
-<img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png" width="80%" alt="MovieHub Preview" style="border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="https://raw.githubusercontent.com/Kimhyungyun812/MovieHub/main/public/thumbnail.png" onerror="this.src='https://via.placeholder.com/800x450/1e90ff/ffffff?text=MovieHub+Preview';" width="80%" alt="MovieHub Preview" style="border-radius:12px;box-shadow:0 0 10px rgba(30,144,255,0.7);"/>
 <br/><br/>
 <p align="left">
 🎥 <b>MovieHub 웹 서비스</b><br/>
