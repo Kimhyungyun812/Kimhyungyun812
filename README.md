@@ -1,7 +1,7 @@
 ## Hi there 👋  
 Nice to meet you!  
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=환영합니다!&fontSize=40&desc=Hardware%20경력에%20더불어%20Software%20경험을%20쌓고%20있는%20김형윤%20입니다.&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=환영합니다!&fontSize=40&desc=Hardware개발자에서%20Soteware의%20개발능력도%20함께%20가지고자%20Software%20경험을%20쌓고%20있는%20김형윤%20입니다.&descAlignY=70)
 
 ---
 
