@@ -17,7 +17,7 @@
 현재는 **소프트웨어(Software)** 기술을 함께 확장해 나가고 있는 **김형윤**입니다.  
 
 - 📶 **모바일 RF 유/무선 업무 담당**
-  - Qualcomm, MTK AP 기반 RF 회로 설계 및 검증  
+  - Qualcomm, MediaTek AP 기반 RF 회로 설계 및 검증  
   - CE, FCC 등 **글로벌 인증 문서 작성 및 Test Follow-up**  
   - **국내 이동통신 3사 무선 성능 Spec 정리 및 최적화 수행**
 
@@ -56,7 +56,7 @@
 #### ⚙️ Embedded / Hardware  
 <p align="left">
   <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MTK-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaTek-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pads-00979D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OrCad-0078D7?style=for-the-badge"/>
