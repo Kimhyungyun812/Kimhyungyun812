@@ -29,6 +29,12 @@
   - **Next.js / React / Node.js** 기반 **MovieHub 🎬** 웹 서비스 개발  
   - **Java / C / STM32 제어 프로젝트 수행**
 
+- 🔍 **품질 역량 강화**
+- 6-Sigma 자격 획득으로 데이터 기반의 문제 해결 및 품질 개선
+- 데이터 분석 능력 (통계적 사고)
+- 문제 정의 및 가설 검증 능력
+- 프로세스 개선 및 품질 향상 능력
+ 
 - 🧩 하드웨어와 소프트웨어의 융합을 통한  
   **지능형 로봇 및 IoT 시스템 개발**에 관심이 많습니다  
 
@@ -54,6 +60,7 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pads-00979D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OrCad-0078D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Xpedition™-0035C3?style=for-the-badge"/>
 </p>
 
 #### 🧰 Tools & Platforms  
