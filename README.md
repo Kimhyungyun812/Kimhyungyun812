@@ -153,12 +153,12 @@
 
 <p align="center">
   <!-- 📧 Naver Mail -->
-  <a href="https://mail.naver.com/write?to=ttl6622@naver.com&subject=문의드립니다&body=안녕하세요%20김형윤님," target="_blank">
+  <a href="https://mail.naver.com/write?to=ttl6622@naver.com&body=안녕하세요%20김형윤님," target="_blank">
     <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 
   <!-- 📧 Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ttl6622@naver.com&su=문의드립니다&body=안녕하세요%20김형윤님," target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ttl6622@naver.com&body=안녕하세요%20김형윤님," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
