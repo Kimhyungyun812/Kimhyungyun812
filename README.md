@@ -152,7 +152,7 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:ttl6622@naver.com"><img src="https://img.shields.io/badge/Email-00bfff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ttl6622@naver.com?subject=안녕하세요&body=안녕하세요%20김형윤님,"><img src="https://img.shields.io/badge/Email-00bfff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Kimhyungyun812"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
