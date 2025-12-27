@@ -142,10 +142,13 @@
 ### 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimhyungyun812&show_icons=true&theme=cobalt&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Kimhyungyun812&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimhyungyun812&show_icons=true&theme=cobalt&hide_border=true&bg_color=transparent" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kimhyungyun812&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
