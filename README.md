@@ -139,21 +139,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kimhyungyun812&show_icons=true&theme=cobalt&hide_border=true&bg_color=00000000)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kimhyungyun812&theme=tokyonight&hide_border=true)
-
-</div>
-
-
-
-
----
-
 ### 📫 Contact
 
 <p align="center">
